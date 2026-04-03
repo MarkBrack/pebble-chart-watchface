@@ -2,6 +2,10 @@
 
 A Pebble watchface for chart and spreadsheet nerds.
 
+## Preview
+
+![Chart Clock screenshot](./screenshot_emery.png)
+
 ## Design
 
 - Hours are shown as a 12-slice donut chart
