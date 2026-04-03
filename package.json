@@ -1,0 +1,21 @@
+{
+  "name": "chart-geek-watchface",
+  "author": "Codex",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Chart Clock",
+    "uuid": "d6f4eef1-b877-4ed9-9e4c-6dff9ea5e8ba",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": ["emery"],
+    "watchapp": {
+      "watchface": true
+    },
+    "resources": {
+      "media": []
+    }
+  }
+}
